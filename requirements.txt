@@ -1,0 +1,9 @@
+streamlit==1.37.1
+rasterio==1.3.10
+folium==0.17.0
+streamlit-folium==0.21.1
+matplotlib==3.8.4
+pandas==2.2.2
+numpy==1.26.4
+shapely==2.0.5
+geopandas==0.14.4
